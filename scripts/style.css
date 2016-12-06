@@ -122,6 +122,11 @@ img {
 
 #websites {
     text-align: center;
+    margin: auto;
+}
+
+tr {
+    margin: auto;
 }
 
 #websites img {
